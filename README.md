@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arijit
 - 👀 I’m interested in Data Science and problem solving
 - 🌱 I’m currently learning data modelling and predictive analytics
-- 💞️ I’m looking to collaborate on any on demand tech stack based project (Node framework / Java framework / Machine Learning)
+- 💞️ I’m looking to collaborate on any of these tech stack based project (Node framework / Java framework / Machine Learning)
 - 📫 Connect with me through my mail id: tataitatait86@gmail.com
 
 <!---
